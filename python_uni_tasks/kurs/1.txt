@@ -1,0 +1,8 @@
+0'Gender', 4-m, 5-f
+1'family_history', ---1
+2'treatment', -----2
+3'Growing_Stress', ---6
+4'Changes_Habits', -- 7
+5 'Mental_Health_History', ----3
+6'Mood_Swings', --  8
+7'Coping_Struggles--9
